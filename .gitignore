@@ -50,5 +50,3 @@ bin
 obj
 *.lock.json
 Properties
-*.xproj
-*.xproj.user
